@@ -3,7 +3,7 @@ New version will come out soon - including automatic upload functions to instagr
 
 ## Join discord for updates / questions:
 
-[<img alt="download latest release" width="300px" src="https://i.imgur.com/jSzTTyx.png" />](https://github.com/fabrree/videoGenerator/releases)
+[<img alt="download latest release" width="300px" src="https://i.imgur.com/jSzTTyx.png" />](https://discord.gg/jVB2dRTwxn)
 
 ![alt text](https://i.imgur.com/Rv8eKH4.png)
 
