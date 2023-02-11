@@ -1,8 +1,19 @@
+# UPDATE
+New version will come out soon - including automatic upload functions to instagram/youtube/tiktok
+
+## Join discord for updates / questions:
+# 
+
+https://i.imgur.com/jSzTTyx.png
+[<img alt="download latest release" width="150px" src="https://i.imgur.com/jSzTTyx.png" />](https://github.com/fabrree/videoGenerator/releases)
+
+
+
 
 # Short 'quote' video generator for whatever platform you use. (reels, shorts, tiktok)
 
 ## Download latest release
-[<img alt="download latest release" width="150px" src="https://user-images.githubusercontent.com/80321003/202250984-08b1bf8e-2730-4a4d-bb78-c9fa8a5e50bb.svg" />](https://github.com/fabrree/videoGenerator/releases)
+[<img alt="download latest release" width="150px" src="https://user-images.githubusercontent.com/80321003/202250984-08b1bf8e-2730-4a4d-bb78-c9fa8a5e50bb.svg" />](https://discord.gg/jVB2dRTwxn)
 (Click on the .zip)
 
 
