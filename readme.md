@@ -2,10 +2,15 @@
 New version will come out soon - including automatic upload functions to instagram/youtube/tiktok
 
 ## Join discord for updates / questions:
-# 
 
-https://i.imgur.com/jSzTTyx.png
-[<img alt="download latest release" width="150px" src="https://i.imgur.com/jSzTTyx.png" />](https://github.com/fabrree/videoGenerator/releases)
+[<img alt="download latest release" width="300px" src="https://i.imgur.com/jSzTTyx.png" />](https://github.com/fabrree/videoGenerator/releases)
+
+![alt text](https://i.imgur.com/Rv8eKH4.png)
+
+
+![alt text](https://i.imgur.com/PLdvUJn.png)
+
+
 
 
 
